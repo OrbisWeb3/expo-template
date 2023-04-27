@@ -6,3 +6,6 @@ To start using download this repository and install the required packages with `
 
 The connection to the Orbis account is managed with a QR code scanning from app.orbis.club (but this can be replicated on any website) which simply passes the `ceramic-session` object from localStorage to the mobile app. It's then being read by the `isConnected` function to automatically connect the user.
 
+## Tailwind RN
+
+This project is using `tailwind-rn` for the styles. The documentation can be access [here](https://github.com/vadimdemedes/tailwind-rn).
